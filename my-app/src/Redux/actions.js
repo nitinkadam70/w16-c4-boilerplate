@@ -19,8 +19,6 @@ const getProductsData = async (dispatch)=> {
 
 const sortProducts = async(dispatch) => {
 
-    
-
 };
 
 
